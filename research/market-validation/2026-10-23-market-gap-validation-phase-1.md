@@ -12,7 +12,7 @@ The corrected problem area is not “a Form 3CD Clause 22 generator”. For the 
 
 Public competitor research also narrows the possible gap: a free CalcGuru worksheet already covers many legacy FY 2025–26 Section 43B(h) calculations, while Tally supports MSME supplier details, due-date tracking, overdue reports and MSME Form 1 exports. Figment advertises bulk Udyam verification and says it supports Form 26 / Section 37(2)(g). A new tool cannot win by merely calculating dates, identifying Udyam vendors or exporting a spreadsheet.
 
-The only defensible question worth testing is whether CA firms have a recurring, material **exception-reconciliation / working-paper QA workflow** that remains painful while adapting client data and existing tools to the current Form No. 26 reporting format. This is currently an assumption.
+The only defensible question worth testing is whether CA firms have a recurring, material **cross-client exception-reconciliation / evidence-traceability / working-paper QA workflow** that remains painful while adapting client data and existing tools to the current Form No. 26 reporting format—and that the free Filingo and Charter AI tools, Tally and Figment do not already solve. This is a narrow, lower-confidence assumption. Candidate D should be treated as at risk of being a no-go unless interviews reveal a specific gap.
 
 ## 1. Official form and tax-year mapping
 
@@ -42,6 +42,8 @@ PDF location in the official document: Form No. 26, Part D, Clause 33, printed p
 | CalcGuru FY 2025–26 workbook | Free Excel download; supplier master, applicability inputs, Section 15 due dates/ageing, compound-interest ledger, Form 3CD Clause 22 figures and MSME Form 1 extract | A generic legacy-year spreadsheet calculator is already offered free; copying those features is not a gap | Vendor-published offer |
 | TallyPrime | Records MSME details and effective dates/history, tracks upcoming and overdue supplier bills, generates MSME reports and Form 1 annexure exports | Basic status capture, ageing and due-date workflows are already served for Tally users | Official vendor documentation |
 | Figment MSME Compliance / VenCPC | Bulk Udyam/MSME status verification, vendor master checks, API and a page that expressly describes Form 26 / Section 37(2)(g) coverage | Classification verification and the new statutory mapping already have a commercial supplier; feature depth/pricing/customer evidence still need checking | Vendor-published offer |
+| Filingo — MSME 43B(h) & MSME-1 checker | Free browser-based tool accepts a creditor-bill list and checks Section 43B(h), MSMED interest and MSME-1; claims files stay in the browser and offers an Excel working paper | Directly overlaps with the proposed “upload ledger → calculate → export” utility for the legacy regime | Vendor-published offer |
+| Charter AI — MSME 45-day payment checker | Free browser-based checker for CA firms; accepts a purchase ledger and outputs late payments, tax disallowance and interest; page says rules reviewed 2 October 2026 | Directly overlaps with the simplest CA-facing ledger-checking MVP | Vendor-published offer |
 | Human CA staff / Excel utilities | Manual evidence review, spreadsheets and existing audit working papers | A workflow must save enough time or reduce enough rework to justify changing a trusted process | Substitute hypothesis; validate in interviews |
 
 Sources:
@@ -50,7 +52,9 @@ Sources:
 - Tally Udyam setup (updated 29 September 2026): https://help.tallysolutions.com/set-up-udyam-details-msme-suppliers/
 - Tally Form 1 annexure / due date workflows: https://help.tallysolutions.com/due-dates-for-payables-to-msme-suppliers/
 - Figment MSME compliance: https://www.figmentglobal.com/msme-compliance
-- Figment MSME verification API: https://www.figmentglobal.com/msme-verification-api
+- Figment MSME verification API: https://www.figmentglobal.com/msme-verification-api/
+- Filingo free checker: https://filingo.in/tools/msme-43bh
+- Charter AI free checker: https://www.charterai.in/tools/msme-payment-checker
 
 ### Important pricing correction
 CalcGuru's page labels its FY 2025–26 workbook “FREE DOWNLOAD”. It already advertises substantial functionality. The earlier Gemini report's repeated ₹999–₹2,500 price assumption for this specific workbook should not be used unless a different, separately priced SKU is verified.
@@ -119,8 +123,8 @@ Pause or abandon this hypothesis if:
 
 ## 7. Current conclusion
 
-**Desk research status:** Strong evidence of competitor overlap; no validated market gap yet.
+**Desk research status:** Very strong evidence of competitor overlap, including two additional free tools directly covering ledger-based checking; no validated market gap yet. The simple MVP is not differentiated and should not be built.
 
-**Best next move:** Conduct neutral interviews with CA firms to discover the actual work required to adapt current MSME-compliance records to the new Form No. 26. Test whether a missing exception/reconciliation workflow exists before building anything.
+**Best next move:** Before outreach, compare Filingo and Charter AI against the exact proposed workflow and new Form No. 26 needs. Then conduct a small number of neutral CA interviews to determine whether there is a distinct gap beyond free ledger-checkers, Tally and Figment. If interviewees cannot name a recurring unresolved workflow, stop Candidate D and return to wider market research.
 
 **Not completed:** No CA has been contacted, no interview has been conducted, no workflow artefact has been obtained, no prototype has been built, and no payment commitment exists.
