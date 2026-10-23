@@ -36,3 +36,13 @@ Keep Candidate D as the top interview hypothesis only. No build approval yet.
 3. Ask which existing systems already solve the workflow; ask specifically about moving to Form No. 26, not only legacy Clause 22.
 4. Do not request live client data. Use process questions and synthetic/redacted examples after permission.
 5. Re-score opportunity only after direct evidence. If current tools already solve it, stop or pivot without building.
+
+
+## Follow-up competitor discovery (same date)
+A second current-web pass found two additional free direct substitutes that were not in the first comparison:
+- Filingo: https://filingo.in/tools/msme-43bh — free browser-based MSME 43B(h) & MSME-1 checker that accepts creditor bills and produces an Excel working paper.
+- Charter AI: https://www.charterai.in/tools/msme-payment-checker — free browser-based MSME 45-day payment checker aimed at CAs; page states rules reviewed 2 October 2026.
+
+This materially weakens the proposed generic MVP. Decision updated: do not build a basic ledger calculator. Candidate D is low-confidence and at risk of no-go. Only proceed with a limited interview round to test a specific Form No. 26 exception-reconciliation/evidence-traceability gap that the free tools and incumbent workflows do not cover. If interviews do not identify a recurring unresolved workflow and credible willingness to test/pay, abandon this candidate and return to wider market discovery.
+
+No prospects have been contacted. No interviews, pilot commitments, payments or product tests occurred in this session.
