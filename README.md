@@ -18,7 +18,7 @@ The goal is not to make a convincing startup story. The goal is to maintain a du
 ## Current status
 
 - **Stage:** Secondary research / hypothesis generation.
-- **Current hypothesis under adversarial review:** A CA-facing MSME payment-compliance working-paper utility, updated for Tax Year 2026–27 / Income-tax Act, 2025 / Form No. 26 Part D Clause 33. This is not validated; the earlier GeM Seller OrderGuard remains a challenged hypothesis, not a selected product.
+- **Current hypothesis under adversarial review:** A CA-facing MSME exception-reconciliation / working-paper QA workflow for Tax Year 2026–27 / Form No. 26 Part D Clause 33. Confidence is low: free Filingo and Charter AI checkers, CalcGuru, Tally and Figment already cover overlapping functionality. A generic calculator MVP is explicitly not approved; see [Phase 1 market-gap validation](research/market-validation/2026-10-23-market-gap-validation-phase-1.md). The earlier GeM Seller OrderGuard remains a challenged hypothesis, not a selected product.
 - **Validation status:** Not validated. Gemini Argon 4's research report has been independently audited; see [the audit](argon/research-task-1-audit.md). No customer willingness-to-pay claim is established by desk research alone.
 - **Build status:** Do not build the full product until customer discovery supports the problem.
 - **Sales approach:** Begin with verified, personalised business outreach and human discovery. Do not start with bulk AI cold calling.
