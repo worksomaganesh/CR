@@ -108,6 +108,7 @@ Official market counts or incident counts do not prove a software-addressable ga
 - Zoho Books for purchase orders and accounting workflows.
 - PraecisAI, Rallic and PaisaBaki for invoice-to-cash, reminders, collections or receivables workflows.
 - Outpero and Sarvam voice agents for calling and voice automation.
+- For the CA/MSME compliance hypothesis: free CalcGuru workbook, Filingo's free MSME 43B(h)/MSME-1 checker, Charter AI's free MSME 45-day payment checker, TallyPrime, and Figment MSME compliance / VenCPC.
 
 Generic invoice OCR/PO matching, generic receivables reminders, and generic AI calling were deprioritised as first products because public vendor pages already advertise overlapping capabilities. This is not a permanent rejection: a specifically evidenced underserved sub-workflow could change the decision.
 
@@ -187,3 +188,18 @@ When new evidence conflicts with old conclusions, preserve the older dated repor
 ## 10. First response expected in a new chat
 
 After scanning this handoff and the current repository, say in Tenglish what the current stage is, what is already documented, what remains unvalidated, and the single highest-priority next action. Do not make the user repeat information already in this file. Continue from the live repository state.
+
+
+## 11. Latest phase-1 validation update — 23 October 2026
+
+New competitor pages found during follow-up search materially change the Candidate D assessment:
+- Filingo offers a free browser-based MSME 43B(h) & MSME-1 checker that takes creditor bills and outputs a working paper: https://filingo.in/tools/msme-43bh
+- Charter AI offers a free browser-based MSME 45-day payment checker explicitly for CAs, taking a purchase ledger and returning late payments, disallowance and interest: https://www.charterai.in/tools/msme-payment-checker
+- CalcGuru also offers a free legacy FY 2025–26 workbook; Tally covers MSME supplier tracking/reporting; Figment advertises Udyam verification and Form 26 / Section 37(2)(g) support.
+
+**Updated decision:** A generic “upload ledger → calculate MSME delay/disallowance/interest → export spreadsheet” MVP is not differentiated and should not be built. Candidate D is at risk of a no-go. Only continue a small validation round if it specifically tests cross-client exception reconciliation, evidence traceability, or working-paper QA for Form No. 26 that these tools and incumbent workflows do not handle. If CAs say current tools suffice, stop the hypothesis and return to broader market research.
+
+Phase-1 report: https://github.com/worksomaganesh/CR/blob/main/research/market-validation/2026-10-23-market-gap-validation-phase-1.md
+Competitor matrix: https://github.com/worksomaganesh/CR/blob/main/research/competitor-comparison.md
+Lead shortlist: https://github.com/worksomaganesh/CR/blob/main/leads/ca-discovery-shortlist-2026-10-23.csv
+Outreach script: https://github.com/worksomaganesh/CR/blob/main/sales/ca-discovery-outreach.md
