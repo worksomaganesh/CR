@@ -1,5 +1,7 @@
 # CR — Customer Research & Business-Building Journey
 
+> **Continuing in a new chat?** Read [handoff.md](handoff.md) first. It records the mission, constraints, research status, decisions and next actions.
+
 > A transparent, evidence-first record of the journey from ₹0 to a validated, customer-funded AI product. This repository documents decisions, assumptions, research, experiments, failures, changes, and results—not just the final product.
 
 **Owner:** worksomaganesh  
