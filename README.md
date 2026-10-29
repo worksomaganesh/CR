@@ -2,7 +2,7 @@
 
 > **Continuing in a new chat?** Read [handoff.md](handoff.md) first. It records the mission, constraints, research status, decisions and next actions.
 
- > A transparent, evidence-first record of building an AI-native technical-solutions business from ₹0: validate real business problems, use AI and appropriate technologies to build/deploy solutions, sell measurable outcomes, and productise repeated demand. This repository records decisions, assumptions, research, experiments, failures, changes and results.
+> A transparent, evidence-first record of building an AI-native technical-solutions business from ₹0: validate real business problems, use AI and appropriate technologies to build/deploy solutions, sell measurable outcomes, and productise repeated demand. This repository records decisions, assumptions, research, experiments, failures, changes and results.
 
 **Owner:** worksomaganesh  
 **Research baseline:** 23 October 2026  
