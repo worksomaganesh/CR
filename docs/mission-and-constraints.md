@@ -1,12 +1,16 @@
 # Mission and constraints
 
 ## Mission
-Find a real, recurring business problem; validate demand before committing to a product; build a useful solution with AI-assisted development; acquire customers responsibly; and document the entire process with evidence.
+Build an **AI-native technical-solutions business** that finds real business problems, selects appropriate technologies, uses AI-assisted development to build and verify solutions, deploys them responsibly, and earns revenue by delivering measurable value.
+
+CR's capability portfolio is broad, spanning AI marketing support, knowledge infrastructure, sales/customer operations, websites and integrations, reporting/analytics, workflow automation and custom technical solutions. See [the service catalogue](service-catalogue.md). This portfolio describes possible capabilities—not validated demand, final prices, or a promise to launch every service.
+
+The active commercial focus must stay narrow: one reachable buyer segment, one painful workflow, one measurable outcome and a credible paid-pilot path. Prefer service-led validation and productise only repeated, paid demand.
 
 ## Goals
 - Execution begins: 1 February 2027, after Semester 1 exams.
 - Stretch goal: ₹1 crore in cumulative revenue actually collected by 31 December 2027.
-- Learning goals: practical software engineering, customer discovery, sales, product judgment, operations, finance and responsible AI use.
+- Learning goals: practical engineering judgment, customer discovery, sales, product decisions, operations, finance and responsible AI use. Deep study of every framework is not a prerequisite; learn concepts just-in-time when they affect quality, risk or a customer decision.
 - Career goal: build real-world proof of execution while continuing B.Tech studies and internship preparation.
 
 ## Constraints
@@ -42,3 +46,6 @@ Track separately:
 8. Make decisions using evidence, not sunk-cost attachment.
 9. Prefer repeatable recurring value over one-off novelty.
 10. Review progress weekly and adjust workload around college commitments.
+11. Sell outcomes, not technology names; choose the simplest reliable architecture that meets the customer's acceptance criteria.
+12. Treat AI-generated code/content as unverified until appropriate tests, reviews and real-environment checks are complete.
+13. Keep a broad capability map but only one or two active commercial offers at a time, chosen from evidence and available delivery capacity.
