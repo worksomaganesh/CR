@@ -1,8 +1,8 @@
-# CR — Customer Research & Business-Building Journey
+# CR — AI-Native Technical Solutions & Business-Building Journey
 
 > **Continuing in a new chat?** Read [handoff.md](handoff.md) first. It records the mission, constraints, research status, decisions and next actions.
 
-> A transparent, evidence-first record of the journey from ₹0 to a validated, customer-funded AI product. This repository documents decisions, assumptions, research, experiments, failures, changes, and results—not just the final product.
+ > A transparent, evidence-first record of building an AI-native technical-solutions business from ₹0: validate real business problems, use AI and appropriate technologies to build/deploy solutions, sell measurable outcomes, and productise repeated demand. This repository records decisions, assumptions, research, experiments, failures, changes and results.
 
 **Owner:** worksomaganesh  
 **Research baseline:** 23 October 2026  
@@ -11,7 +11,7 @@
 
 ## Why this repository exists
 
-CR is the single source of truth for the whole journey: finding a real business problem, testing whether people will pay, choosing a narrow product, reaching prospects responsibly, building with Codex and other AI tools, earning the first revenue, reinvesting, and recording what actually happened.
+CR is the single source of truth for the journey: find real business problems, test whether people will pay, select a narrow first offer from a broad service capability catalogue, build and deploy with AI-assisted engineering, acquire customers responsibly, collect revenue, reinvest carefully, and record what actually happened. CR is an AI-native technical-solutions business—not limited to chatbots or one technology. The broad portfolio is an intended capability map, not proof of demand or a commitment to launch every offer.
 
 The goal is not to make a convincing startup story. The goal is to maintain a durable, auditable record of evidence and decisions—including negative findings and reasons to stop.
 
@@ -28,7 +28,9 @@ The goal is not to make a convincing startup story. The goal is to maintain a du
 
 | Area | What belongs here |
 |---|---|
-| [docs/](docs/) | Mission, constraints, working principles and decision framework |
+| [docs/](docs/) | Mission, constraints, strategy, service catalogue and decision framework |
+| [Service catalogue](docs/service-catalogue.md) | Intended service lines, customer outcomes, package hypotheses, Power BI vs spreadsheet guidance, qualification and delivery rules |
+| [AI-native strategy](docs/ai-native-technical-solutions-strategy.md) | Founder role, AI-assisted operating model, service-first business model and technology-selection principles |
 | [research/](research/) | Market research, competitor research, hypotheses, validation plans and evidence |
 | [research/market-validation/](research/market-validation/) | Dated market-validation reports and revisions |
 | [leads/](leads/) | Prospecting rules and qualified lead research; only sourced public business information |
@@ -61,6 +63,7 @@ The report [Market Validation Report v0.1 — 23 October 2026](research/market-v
 ## Starting commands
 
 - Read [docs/mission-and-constraints.md](docs/mission-and-constraints.md).
+- Read [docs/ai-native-technical-solutions-strategy.md](docs/ai-native-technical-solutions-strategy.md) and [docs/service-catalogue.md](docs/service-catalogue.md) to understand the business direction and intended offers.
 - Read [research/market-validation/2026-10-23-market-validation-report-v0.1.md](research/market-validation/2026-10-23-market-validation-report-v0.1.md).
 - Run the [market-validation plan](research/validation-plan.md) before committing to a product.
 - Use the [interview template](templates/customer-interview-template.md) and [experiment template](templates/experiment-template.md).
@@ -77,4 +80,4 @@ The report [Market Validation Report v0.1 — 23 October 2026](research/market-v
 - **Retained:** customer continues to use/pay; define the measure for the product.
 - **Invalidated:** evidence contradicts the hypothesis; explain the decision and next move.
 
-Last updated: 2026-10-23.
+Last updated: 2026-10-29.
