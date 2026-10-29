@@ -1,8 +1,9 @@
 # AI-Native Technical Solutions Strategy
 
 **Status:** Strategic direction accepted as a working thesis; customer demand and the first offer remain unvalidated.  
-**Recorded:** 28 October 2026  
-**Repository:** CR — Customer Research & Business-Building Journey
+**Recorded:** 29 October 2026  
+**Repository:** CR — AI-Native Technical Solutions & Business-Building Journey
+**Service catalogue:** [docs/service-catalogue.md](service-catalogue.md) — detailed offers, package hypotheses, analytics delivery options, qualification and operating rules.
 
 ## 1. The mission
 
@@ -33,13 +34,17 @@ A service can generate earlier revenue and teach the founder what customers actu
 
 The business may use a wide range of tools over time: LLMs, RAG, agents, APIs, databases, workflow automation, web apps, dashboards, data extraction, cloud deployments and security tooling. However, each offer should initially target one buyer type and one workflow.
 
-Illustrative service families—not pre-approved products:
+Illustrative service families—not pre-approved products. See the [full service catalogue](service-catalogue.md) for the detailed inventory and commercial packaging:
 
-- **Workflow automation:** remove repetitive copy/paste, routing, reminders, reporting or data-entry steps.
-- **Document and knowledge workflows:** answer questions from approved business documents, extract structured fields with evidence, or prepare a review queue.
-- **Internal tools and dashboards:** connect systems, consolidate operational information, or replace a fragile spreadsheet process.
-- **Customer operations:** assist with enquiry triage, response drafting or follow-up workflows, using appropriate consent and platform-compliant channels.
-- **Data and quality workflows:** clean datasets, detect exceptions, compare records, and prepare outputs for a human to approve.
+- **AI marketing and business growth:** social posts/ad creatives, reel ideas, captions, hashtags, monthly campaign calendars, WhatsApp promotional content, genuine Google review reply drafts, competitor analysis and evidence-based marketing suggestions.
+- **AI knowledge infrastructure:** FAQ assistants, PDF chatbots, employee knowledge AI and internal business knowledge retrieval.
+- **AI sales infrastructure:** proposal/quote drafts, lead qualification, sales reporting and approved follow-up workflows.
+- **AI customer operations:** bounded WhatsApp assistants, AI receptionist, customer support and appointment assistants.
+- **Websites, lead capture and integrations:** landing pages/forms, Google Forms/Sheets/Calendar, WhatsApp Business and other supported APIs.
+- **Business reporting and analytics:** basic Excel/Sheets reporting, monthly performance reports, interactive dashboards, Power BI projects and managed/automated analytics where justified.
+- **Custom AI engineering and technical solutions:** bounded agents, RAG/retrieval variants, data extraction/reconciliation, custom apps/APIs, ML and future technologies where customer need and feasibility support them.
+
+These are capabilities to evaluate, not a commitment to launch all offers simultaneously. Keep one or two active commercial offers at a time, based on buyer evidence, delivery capacity and economics.
 
 Do not attempt to sell all of these at once. Pick the first offer only after validating a specific gap. The current CA/MSME exception-reconciliation/working-paper QA idea remains unvalidated; the generic calculator variant is already challenged by overlapping free and incumbent alternatives. Do not revive it without evidence of a distinct underserved workflow.
 
@@ -95,6 +100,8 @@ Score candidate workflows using evidence, not excitement:
 Use customer interviews and real examples (with permission and sensitive details redacted) before coding the full solution. Treat AI-generated prospect lists and market reports as leads for verification, not evidence that a company has a problem.
 
 ## 7. Revenue model and offers
+
+CR's intended service inventory and candidate outcome-based packages are documented in the [service catalogue](service-catalogue.md). Marketing retainers, implementation projects, paid pilots, managed services and later product subscriptions are different commercial shapes; select only what the validated buyer needs. Do not publish universal prices before scope, costs and willingness to pay are understood.
 
 A possible commercial ladder is:
 
