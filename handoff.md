@@ -2,9 +2,9 @@
 
 > Purpose: continuation brief for a future ChatGPT conversation. When the user shares https://github.com/worksomaganesh/CR, read this file first, then inspect the repository's current README, latest research report, validation plan, decision records and newest logs. Treat current GitHub contents as source of truth, not this file alone. Verify the current date and any time-sensitive information.
 
-Last updated: 23 October 2026  
+Last updated: 29 October 2026  
 Repository: https://github.com/worksomaganesh/CR  
-Current stage: Secondary market research; customer validation has not yet happened.  
+Current stage: Secondary research / hypothesis generation plus a newly documented AI-native service portfolio. Customer validation has not yet happened; no first offer is approved.  
 Most important rule: Do not build a product until there is evidence that a narrow customer problem exists, current alternatives leave a meaningful gap, and a buyer may pay.
 
 ---
@@ -203,3 +203,29 @@ Phase-1 report: https://github.com/worksomaganesh/CR/blob/main/research/market-v
 Competitor matrix: https://github.com/worksomaganesh/CR/blob/main/research/competitor-comparison.md
 Lead shortlist: https://github.com/worksomaganesh/CR/blob/main/leads/ca-discovery-shortlist-2026-10-23.csv
 Outreach script: https://github.com/worksomaganesh/CR/blob/main/sales/ca-discovery-outreach.md
+
+
+## 12. AI-native service portfolio update — 29 October 2026
+
+The founder clarified the long-term business model: CR should be an AI-native technical-solutions company, not just a single-product startup or RAG/chatbot provider. The founder intends to coordinate AI tools for research, planning, engineering, QA, documentation, sales support and operations, while retaining responsibility for customer promises, security, verification and production decisions. The founder does not intend to deeply study every technology; learn technical details just-in-time where needed to evaluate quality, risk and delivery.
+
+New canonical document:
+- Service catalogue and commercial packaging: https://github.com/worksomaganesh/CR/blob/main/docs/service-catalogue.md
+- Updated strategy: https://github.com/worksomaganesh/CR/blob/main/docs/ai-native-technical-solutions-strategy.md
+
+The catalogue covers these intended capability lines:
+1. AI marketing and business growth: social posts/ad creatives, reel ideas, captions, hashtags, monthly campaign calendar, WhatsApp promotional content, Google review replies, competitor analysis and AI marketing suggestions.
+2. AI knowledge infrastructure: FAQ assistant, PDF chatbot, employee knowledge AI and internal business knowledge.
+3. AI sales infrastructure: proposal generator, quote generator, lead qualification and sales reporting.
+4. AI customer operations: AI WhatsApp employee, AI receptionist, customer support and appointment assistant.
+5. Websites, lead capture and integrations: landing pages/forms, Google Forms, Sheets, Calendar, WhatsApp Business and other supported tools.
+6. Business reporting and analytics: Excel/Sheets reports, monthly performance reports, dashboards, Power BI projects and managed/automated analytics where justified.
+7. Custom AI engineering: bounded agents, RAG/retrieval variants, document/data processing, reconciliation, custom software, APIs, ML and future technologies when customer need and feasibility support them.
+
+Outcome-based package hypotheses are Business Growth Kit, AI Sales & Customer Desk, AI Knowledge Desk, Business Intelligence Kit, and Custom Automation & Integration. These are candidate packages—not validated offers, fixed pricing or a promise to launch all at once.
+
+Important analytics decision: do not charge more merely because a deliverable is Power BI or a .pbix file. Choose Excel/Sheets, Power BI Desktop, published/shared Power BI, or managed analytics based on the customer's data model, interactivity, refresh, sharing/licensing, governance and support needs. Verify current Microsoft licensing/access requirements before quoting a published dashboard. Price the data cleaning, modelling, KPI definitions, validation, deployment and ongoing maintenance actually required.
+
+Operating rule: keep the capability portfolio broad but the active commercial focus narrow—one or two offers at a time. Validate a specific buyer, workflow, competitive gap, measurable outcome, delivery cost and willingness to pay before building. Service-first paid pilots may precede productisation; subscriptions follow only when repeat value is evidenced. AI-generated code/content is unverified until tested and reviewed. Protect customer data, respect platform/legal rules, and keep human approval for consequential actions.
+
+The service catalogue has been documented in docs/service-catalogue.md; the main README, mission/constraints, strategy, product, sales, operations and finance docs were updated to link to or operationalise it. No product was selected and no customer demand was claimed as validated. Existing CA/MSME working-paper QA and GeM Seller OrderGuard hypotheses remain unvalidated and must be compared against other offers using evidence. Next action: conduct focused market/customer discovery and select the first narrow paid-pilot offer only when supported by evidence.
