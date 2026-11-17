@@ -15,5 +15,6 @@ Use one dated entry per meaningful work session. Include:
 Do not claim a task was completed unless it was actually performed. Distinguish planned work from completed work. Keep sensitive customer data and credentials out of the repository.
 
 ## Entries
+- [2026-11-17 — Founder brand system added](2026-11-17-founder-brand-system.md)
 - [2026-10-29 — AI-native service portfolio documented](2026-10-29-ai-native-service-portfolio.md)
 - [2026-10-23 — Repository setup and market validation baseline](2026-10-23-repo-setup-and-market-validation.md)

@@ -15,6 +15,8 @@ CR is the single source of truth for the journey: find real business problems, t
 
 The goal is not to make a convincing startup story. The goal is to maintain a durable, auditable record of evidence and decisions—including negative findings and reasons to stop.
 
+The [brand/](brand/) module supports the public-facing founder presence around this journey: positioning, portfolio, useful content, publishing workflow and audience measurement. It must reflect verified work and must never present hypotheses as customer results or expose confidential business records.
+
 ## Current status
 
 - **Stage:** Secondary research / hypothesis generation.
@@ -29,6 +31,7 @@ The goal is not to make a convincing startup story. The goal is to maintain a du
 | Area | What belongs here |
 |---|---|
 | [docs/](docs/) | Mission, constraints, strategy, service catalogue and decision framework |
+| [brand/](brand/) | Founder positioning, portfolio, content, distribution and audience analytics; the public-facing growth layer, not a substitute for business validation |
 | [Service catalogue](docs/service-catalogue.md) | Intended service lines, customer outcomes, package hypotheses, Power BI vs spreadsheet guidance, qualification and delivery rules |
 | [AI-native strategy](docs/ai-native-technical-solutions-strategy.md) | Founder role, AI-assisted operating model, service-first business model and technology-selection principles |
 | [research/](research/) | Market research, competitor research, hypotheses, validation plans and evidence |
@@ -55,6 +58,7 @@ The goal is not to make a convincing startup story. The goal is to maintain a du
 8. **Record failed experiments.** A reasoned stop or pivot is valuable evidence.
 9. **Keep studies sustainable.** The business must fit alongside college and health.
 10. **Separate revenue from profit.** ₹1 crore is an aggressive stretch target for cumulative revenue collected by 31 December 2027; profit, taxes, expenses, refunds, and cash available are tracked separately.
+11. **Public claims must match evidence.** Describe projects, skills, customer outcomes and business status accurately. Label experiments and hypotheses; never invent clients, testimonials, metrics or results.
 
 ## How to read the research
 
@@ -64,6 +68,7 @@ The report [Market Validation Report v0.1 — 23 October 2026](research/market-v
 
 - Read [docs/mission-and-constraints.md](docs/mission-and-constraints.md).
 - Read [docs/ai-native-technical-solutions-strategy.md](docs/ai-native-technical-solutions-strategy.md) and [docs/service-catalogue.md](docs/service-catalogue.md) to understand the business direction and intended offers.
+- Read [brand/README.md](brand/README.md) before planning founder positioning, public content, the portfolio website or Foundable workflows.
 - Read [research/market-validation/2026-10-23-market-validation-report-v0.1.md](research/market-validation/2026-10-23-market-validation-report-v0.1.md).
 - Run the [market-validation plan](research/validation-plan.md) before committing to a product.
 - Use the [interview template](templates/customer-interview-template.md) and [experiment template](templates/experiment-template.md).
@@ -80,4 +85,4 @@ The report [Market Validation Report v0.1 — 23 October 2026](research/market-v
 - **Retained:** customer continues to use/pay; define the measure for the product.
 - **Invalidated:** evidence contradicts the hypothesis; explain the decision and next move.
 
-Last updated: 2026-10-29.
+Last updated: 2026-11-17.

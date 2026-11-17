@@ -2,7 +2,7 @@
 
 > Purpose: continuation brief for a future ChatGPT conversation. When the user shares https://github.com/worksomaganesh/CR, read this file first, then inspect the repository's current README, latest research report, validation plan, decision records and newest logs. Treat current GitHub contents as source of truth, not this file alone. Verify the current date and any time-sensitive information.
 
-Last updated: 29 October 2026  
+Last updated: 17 November 2026  
 Repository: https://github.com/worksomaganesh/CR  
 Current stage: Secondary research / hypothesis generation plus a newly documented AI-native service portfolio. Customer validation has not yet happened; no first offer is approved.  
 Most important rule: Do not build a product until there is evidence that a narrow customer problem exists, current alternatives leave a meaningful gap, and a buyer may pay.
@@ -15,6 +15,7 @@ When the user pastes the repository link in a new chat:
 
 1. Open the repository and read the root file handoff.md first.
 2. Read README.md to understand the documentation structure and operating rules.
+2a. For public positioning, portfolio, content, social publishing or Foundable tasks, read brand/README.md and the relevant files under brand/.
 3. Read the latest dated report in research/market-validation/.
 4. Read research/validation-plan.md, research/hypotheses-and-scoring.md, and research/sources.md.
 5. Read the latest relevant files under decisions/ and logs/.
@@ -166,6 +167,7 @@ Guidance recorded so far:
 - finance/ — collections, expenses, profit and reinvestment.
 - operations/ — privacy, security and compliance.
 - templates/ — interview, experiment, decision and lead templates.
+- brand/ — founder positioning, audience, identity, voice, content planning, portfolio website, Foundable workflow, publishing approvals and audience analytics.
 
 ## 9. Evidence and status vocabulary
 
@@ -229,3 +231,34 @@ Important analytics decision: do not charge more merely because a deliverable is
 Operating rule: keep the capability portfolio broad but the active commercial focus narrow—one or two offers at a time. Validate a specific buyer, workflow, competitive gap, measurable outcome, delivery cost and willingness to pay before building. Service-first paid pilots may precede productisation; subscriptions follow only when repeat value is evidenced. AI-generated code/content is unverified until tested and reviewed. Protect customer data, respect platform/legal rules, and keep human approval for consequential actions.
 
 The service catalogue has been documented in docs/service-catalogue.md; the main README, mission/constraints, strategy, product, sales, operations and finance docs were updated to link to or operationalise it. No product was selected and no customer demand was claimed as validated. Existing CA/MSME working-paper QA and GeM Seller OrderGuard hypotheses remain unvalidated and must be compared against other offers using evidence. Next action: conduct focused market/customer discovery and select the first narrow paid-pilot offer only when supported by evidence.
+
+
+## 13. Founder brand and Foundable operating system — 17 November 2026
+
+A dedicated brand module has been added under brand/. It supports a truthful public-facing founder presence around the CR journey while keeping CR's research, decisions, experiments, customer evidence and financial records as the business source of truth.
+
+Start here: brand/README.md. The module covers founder positioning, target audience, visual identity, voice, platform strategy, content, website, distribution and analytics.
+
+Working positioning (draft, not an approved permanent claim): an AIML student and aspiring founder documenting how he researches real business problems, experiments with AI, engineers practical solutions and develops an AI-native technical-solutions business. Public materials must distinguish learning, prototypes, desk research, validated customer problems, paid pilots and delivered outcomes. Do not describe the business as established or customer-validated without evidence.
+
+### Foundable's intended role
+
+Foundable (https://foundable.com/) is an optional brand-operations and website execution tool—not the source of truth for CR. Official product pages reviewed on 17 November 2026:
+- Websites, portfolio builds and GitHub code sync: https://foundable.com/solutions/websites
+- Social posts, connected networks and approval controls: https://foundable.com/solutions/social-media
+- Integrations and connection management: https://foundable.com/integrations
+- Product overview: https://foundable.com/
+
+These are vendor descriptions, not independently tested capabilities. Verify current plan requirements, connected-account eligibility, permissions and limits in the live account before use.
+
+### Operating boundaries
+
+1. Keep public posts, replies, emails, outreach and website changes in approval-required mode unless the founder separately authorizes a specific action.
+2. Do not enable autonomous posting, messaging, outreach, payments, purchases or domain changes by default.
+3. Treat AI-generated content and research as drafts. Verify every claim and obtain permission before using customer names, logos, private correspondence or testimonials.
+4. If Foundable GitHub sync is used, place the website code in a dedicated portfolio repository. Do not sync it into this CR operations repository.
+5. Do not connect customer mailboxes, customer datasets, private business documents or payment accounts for a personal-brand task.
+6. Publish sanitized lessons only. Never publish private leads, contact details, customer documents, credentials or internal financial information.
+7. Re-check current features, pricing, terms and permissions at the time of use.
+
+At the time this module was added, no Foundable account connection, personal website publication, social account connection or campaign was recorded. These remain future actions, not completed work. Positioning, identity and channel priorities still require founder approval.
