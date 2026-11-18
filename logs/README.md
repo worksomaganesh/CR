@@ -15,6 +15,7 @@ Use one dated entry per meaningful work session. Include:
 Do not claim a task was completed unless it was actually performed. Distinguish planned work from completed work. Keep sensitive customer data and credentials out of the repository.
 
 ## Entries
+- [2026-11-18 — Free-first tool stack and Grok Bot purchase decision](2026-11-18-free-first-tooling-and-grok-bot-purchase.md)
 - [2026-11-18 — Grok Bot Galaxy case study and CR AI operating system](2026-11-18-grok-bot-galaxy-cr-case-study.md)
 - [2026-11-17 — Founder brand system added](2026-11-17-founder-brand-system.md)
 - [2026-10-29 — AI-native service portfolio documented](2026-10-29-ai-native-service-portfolio.md)
