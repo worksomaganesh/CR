@@ -51,12 +51,17 @@ Specialists work on one function with one clear output contract. Their roles and
 | Planning and review | ChatGPT / Chief of Staff role | Convert research into decisions, plans, task packets and review questions |
 | Software implementation | Codex or the selected coding agent | Work from a scoped issue/spec; do not deploy without gates |
 | Brand execution | Foundable, if adopted | Draft website/social assets from approved content; publishing requires founder approval |
+| Tool governance | [Tool stack and free-resource policy](tool-stack-and-free-resource-policy.md) | Track entitlements, quotas, privacy, costs and permitted usage; never bypass provider limits |
 | Source control and release evidence | GitHub | Branches, commits, tests, PRs, releases and deployment records |
 | Private customer records | A separately approved private system | Never store customer PII, contracts, credentials or raw private files in this public CR repository |
 
 Tool availability and subscription entitlements must be checked in the actual account before a workflow depends on them. Do not purchase additional subscriptions or infrastructure until a measured bottleneck justifies the cost.
 
 CR's public repository may contain sanitized summaries, templates, public-source links and decision records. Detailed prospect records, interview notes, customer documents, pricing negotiated for a named customer, credentials and other confidential material belong in a properly secured private system.
+
+## 3a. Tool-stack decision
+
+Follow [tool-stack-and-free-resource-policy.md](tool-stack-and-free-resource-policy.md) and the dated [tooling decision](../decisions/2026-11-18-free-first-tooling-and-grok-bot-purchase.md). Existing Codex Free and Jio Google AI Pro entitlements are the first resources. Grok Bot is a conditional one-month Premium test only after age eligibility, local price, usage and security gates are met.
 
 ## 4. Initial role map
 
@@ -283,3 +288,8 @@ The dates below preserve CR's current commercial execution target of 1 February 
 ## 13. Immediate next action
 
 Use the role catalogue and task template to run one controlled internal task: independently re-evaluate the existing CR candidate opportunities and service lines, identify the strongest buyer/problem evidence still missing, and recommend the next discovery test. This must not silently select a product or begin external outreach.
+
+
+## 14. Free-first resource discipline
+
+Free-first means use legitimate included entitlements to produce accepted work—not exhaust quotas for their own sake. Never rotate email/accounts, cycle trials or otherwise bypass provider limits. Check the current tool policy and dated purchase decision before connecting a provider or enabling billing. Keep cost, allowance, reset date, data-use terms and fallback visible for each tool.
