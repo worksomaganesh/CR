@@ -267,3 +267,20 @@ At the time this module was added, no Foundable account connection, personal web
 ## 14. Grok Bot Galaxy research and CR AI operating system — 18 November 2026
 
 Reviewed the September 15–17 Grok Bot Galaxy three-day company build and public transcript notes. Added a dated case study at research/2026-11-18-grok-bot-galaxy-case-study.md and a CR-specific AI Company Operating System at operations/ai-company-operating-system.md. The operating model covers a human founder, Chief of Staff coordinator, bounded specialist roles, canonical repository knowledge, task statuses, reusable loops for research/product/sales/content/customer success/operations, explicit approval boundaries, monitoring and phased adoption through the existing 1 February 2027 commercial execution target. Added agent-role-catalogue.md, agent-task-template.md and agent-acceptance-checklist.md. No autonomous agents were connected or launched, no customer outreach was sent, no product hypothesis was selected, and no customer validation was claimed. The case study uses event pages and community transcript archives; livestream-derived details and reported metrics are labelled as secondary/unaudited.
+
+
+## 15. Free-first tool stack and conditional Grok Bot purchase — 18 November 2026
+
+The founder approved a free-first, value-first tool strategy. Use existing Codex Free, eligible Jio Google AI Pro/Gemini app access and student/free developer benefits to produce accepted work. Do not create extra email/accounts to reset provider quotas, cycle trials or otherwise bypass limits. OpenAI Terms prohibit rate-limit circumvention.
+
+Canonical files:
+- operations/tool-stack-and-free-resource-policy.md — tool routes, free resource candidates, account/privacy rules, usage/spend limits and resource ledger.
+- decisions/2026-11-18-free-first-tooling-and-grok-bot-purchase.md — approved strategy and purchase conditions.
+
+Codex correction: current official OpenAI docs say Codex is included on Free; its model table lists GPT-5.6 Terra for Codex on Free/Go. GPT-5.6 Luna is the default ChatGPT Free model, not the Codex Free model shown in that table. Codex Cloud is not included on Free/Go. Verify the current account UI.
+
+Grok Bot is conditionally approved for a one-month Premium test only (official page currently lists USD $30/month; Super $100, Ultra $200). Confirm Indian checkout price/taxes and exact usage/billing terms before purchase. The Grok Bot Terms require users to be 18 or older (or higher local age of majority); the founder must not access it before meeting this condition. Its cloud computer is shared across all Bots on the same account, and the product requires data storage and does not support Legacy Privacy Mode. Start with public/synthetic data, least privilege, narrow Ask-first rules, Auto Top-up off and a monthly spending cap.
+
+Other legitimate free resources to evaluate when useful: GitHub Student Developer Pack, Gemini API/AI Studio Free tier (eligible models only; use public/synthetic data because free-tier data may be used to improve Google products; Argon is not API-Free), Cloudflare Workers Free and Supabase Free. Vercel Hobby is personal/non-commercial and must not host CR paid client deployments.
+
+No purchase, account connection, API billing enablement or new deployment was performed by this documentation update.
