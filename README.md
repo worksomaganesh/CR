@@ -45,6 +45,7 @@ The [brand/](brand/) module supports the public-facing founder presence around t
 | [finance/](finance/) | Revenue, expenses, cash flow, reinvestment and the ₹1 crore dashboard |
 | [operations/](operations/) | Security, privacy, compliance, customer support and delivery practices |
 | [AI company operating system](operations/ai-company-operating-system.md) | Human-governed agent roles, task lifecycle and company workflows inspired by the Grok Bot Galaxy case study |
+| [Tool stack and free-resource policy](operations/tool-stack-and-free-resource-policy.md) | Free-first resource strategy, existing subscriptions, student benefits, Grok Bot purchase gates and spend/privacy controls |
 | [templates/](templates/) | Reusable formats for interviews, experiments, leads and decisions |
 
 ## Non-negotiable rules
@@ -60,6 +61,7 @@ The [brand/](brand/) module supports the public-facing founder presence around t
 9. **Keep studies sustainable.** The business must fit alongside college and health.
 10. **Separate revenue from profit.** ₹1 crore is an aggressive stretch target for cumulative revenue collected by 31 December 2027; profit, taxes, expenses, refunds, and cash available are tracked separately.
 11. **Public claims must match evidence.** Describe projects, skills, customer outcomes and business status accurately. Label experiments and hypotheses; never invent clients, testimonials, metrics or results.
+12. **Respect tool limits and terms.** Do not rotate accounts, cycle trials or use other methods to bypass quotas. Use free resources to complete valuable work, not to maximize raw usage.
 
 ## How to read the research
 
@@ -71,6 +73,7 @@ The report [Market Validation Report v0.1 — 23 October 2026](research/market-v
 - Read [docs/ai-native-technical-solutions-strategy.md](docs/ai-native-technical-solutions-strategy.md) and [docs/service-catalogue.md](docs/service-catalogue.md) to understand the business direction and intended offers.
 - Read [brand/README.md](brand/README.md) before planning founder positioning, public content, the portfolio website or Foundable workflows.
 - Read [research/2026-11-18-grok-bot-galaxy-case-study.md](research/2026-11-18-grok-bot-galaxy-case-study.md) and [operations/ai-company-operating-system.md](operations/ai-company-operating-system.md) to understand the agentic company-building model and CR adaptation.
+- Read [decisions/2026-11-18-free-first-tooling-and-grok-bot-purchase.md](decisions/2026-11-18-free-first-tooling-and-grok-bot-purchase.md) and [operations/tool-stack-and-free-resource-policy.md](operations/tool-stack-and-free-resource-policy.md) before choosing, purchasing or connecting AI tools.
 - Read [research/market-validation/2026-10-23-market-validation-report-v0.1.md](research/market-validation/2026-10-23-market-validation-report-v0.1.md).
 - Run the [market-validation plan](research/validation-plan.md) before committing to a product.
 - Use the [interview template](templates/customer-interview-template.md) and [experiment template](templates/experiment-template.md).
