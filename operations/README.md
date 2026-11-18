@@ -44,3 +44,8 @@ Use legitimate published business contact routes. Before automated or bulk comme
 ## AI company operating system
 
 CR's proposed agent roles, task lifecycle, approval boundaries and adoption roadmap are documented in [AI Company Operating System](ai-company-operating-system.md). Reusable specialist role briefs are in [agent-role-catalogue.md](agent-role-catalogue.md). Use the [agent task brief](../templates/agent-task-template.md) for every bounded assignment and the [acceptance checklist](../templates/agent-acceptance-checklist.md) before marking agent work accepted. Agent-complete is not the same as human-accepted.
+
+
+## Tool stack and free resources
+
+See [Tool Stack and Free-Resource Policy](tool-stack-and-free-resource-policy.md) for approved tool routing, free-tier register, student benefits, Grok Bot eligibility/purchase/security gates and cost controls. The dated decision is in [decisions/2026-11-18-free-first-tooling-and-grok-bot-purchase.md](../decisions/2026-11-18-free-first-tooling-and-grok-bot-purchase.md).
