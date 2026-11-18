@@ -262,3 +262,8 @@ These are vendor descriptions, not independently tested capabilities. Verify cur
 7. Re-check current features, pricing, terms and permissions at the time of use.
 
 At the time this module was added, no Foundable account connection, personal website publication, social account connection or campaign was recorded. These remain future actions, not completed work. Positioning, identity and channel priorities still require founder approval.
+
+
+## 14. Grok Bot Galaxy research and CR AI operating system — 18 November 2026
+
+Reviewed the September 15–17 Grok Bot Galaxy three-day company build and public transcript notes. Added a dated case study at research/2026-11-18-grok-bot-galaxy-case-study.md and a CR-specific AI Company Operating System at operations/ai-company-operating-system.md. The operating model covers a human founder, Chief of Staff coordinator, bounded specialist roles, canonical repository knowledge, task statuses, reusable loops for research/product/sales/content/customer success/operations, explicit approval boundaries, monitoring and phased adoption through the existing 1 February 2027 commercial execution target. Added agent-role-catalogue.md, agent-task-template.md and agent-acceptance-checklist.md. No autonomous agents were connected or launched, no customer outreach was sent, no product hypothesis was selected, and no customer validation was claimed. The case study uses event pages and community transcript archives; livestream-derived details and reported metrics are labelled as secondary/unaudited.

@@ -15,3 +15,5 @@ This folder records market landscapes, customer segments, competitor comparisons
 - [Validation plan](validation-plan.md)
 - [Source register](sources.md)
 - [Hypotheses and scoring rubric](hypotheses-and-scoring.md)
+
+- [Grok Bot Galaxy case study — 15–17 September 2026](2026-11-18-grok-bot-galaxy-case-study.md) — secondary-source reconstruction and CR-specific lessons from the 72-hour company-building event.

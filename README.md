@@ -44,6 +44,7 @@ The [brand/](brand/) module supports the public-facing founder presence around t
 | [logs/](logs/) | Chronological work logs: what changed, evidence, blockers, fixes and lessons |
 | [finance/](finance/) | Revenue, expenses, cash flow, reinvestment and the ₹1 crore dashboard |
 | [operations/](operations/) | Security, privacy, compliance, customer support and delivery practices |
+| [AI company operating system](operations/ai-company-operating-system.md) | Human-governed agent roles, task lifecycle and company workflows inspired by the Grok Bot Galaxy case study |
 | [templates/](templates/) | Reusable formats for interviews, experiments, leads and decisions |
 
 ## Non-negotiable rules
@@ -69,6 +70,7 @@ The report [Market Validation Report v0.1 — 23 October 2026](research/market-v
 - Read [docs/mission-and-constraints.md](docs/mission-and-constraints.md).
 - Read [docs/ai-native-technical-solutions-strategy.md](docs/ai-native-technical-solutions-strategy.md) and [docs/service-catalogue.md](docs/service-catalogue.md) to understand the business direction and intended offers.
 - Read [brand/README.md](brand/README.md) before planning founder positioning, public content, the portfolio website or Foundable workflows.
+- Read [research/2026-11-18-grok-bot-galaxy-case-study.md](research/2026-11-18-grok-bot-galaxy-case-study.md) and [operations/ai-company-operating-system.md](operations/ai-company-operating-system.md) to understand the agentic company-building model and CR adaptation.
 - Read [research/market-validation/2026-10-23-market-validation-report-v0.1.md](research/market-validation/2026-10-23-market-validation-report-v0.1.md).
 - Run the [market-validation plan](research/validation-plan.md) before committing to a product.
 - Use the [interview template](templates/customer-interview-template.md) and [experiment template](templates/experiment-template.md).
@@ -85,4 +87,4 @@ The report [Market Validation Report v0.1 — 23 October 2026](research/market-v
 - **Retained:** customer continues to use/pay; define the measure for the product.
 - **Invalidated:** evidence contradicts the hypothesis; explain the decision and next move.
 
-Last updated: 2026-11-17.
+Last updated: 2026-11-18.
